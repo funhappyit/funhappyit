@@ -18,3 +18,4 @@ My major is Electronic Control Engineering, and I have been studying computer sc
 
 ### Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:funhappyit@gmail.com)](mailto:funhappyit@gmail.com) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/winterkjoung/)](https://blog.naver.com/winterkjoung/)
