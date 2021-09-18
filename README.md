@@ -8,6 +8,14 @@ Hello My Name is HanYuKjoung, I am a developer working at SECULAYER
 
 My major is Electronic Control Engineering, and I have been studying computer science since 2019, I have project experience using Java(My most confident language)
 
+### Study
+| type       | date              | contents                       | Organization                        |
+|------------|-------------------|--------------------------------|-------------------------------------|
+| Study      | 2021.08 ~         | springboot & JPA               | FASTCAMPUS & 스타트 스프링 부트(BOOK) |
+
+
+
+
 ### Career
 | type       | date              | contents                       | Organization       |
 |------------|-------------------|--------------------------------|--------------------|
