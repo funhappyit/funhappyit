@@ -11,7 +11,7 @@ My major is Electronic Control Engineering, and I have been studying computer sc
 ### Study
 | type       | date              | contents                       | Organization                        |
 |------------|-------------------|--------------------------------|-------------------------------------|
-| Study      | 2021.08 ~         | springboot & JPA               | FASTCAMPUS & 스타트 스프링 부트(BOOK) |
+| Study      | 2021.08.24 ~         | springboot & JPA               | FASTCAMPUS & 스타트 스프링 부트(BOOK) |
 
 
 
