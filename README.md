@@ -96,7 +96,7 @@
 <table>
   <tr>
     <td align="center" width="160">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" width="120"/><br/>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" width="120"/><br/>
       <b>파이리 / Charmander</b><br/>
       <sub>🔥 불꽃 타입 · No.004</sub><br/>
       <sub><i>"작지만 꺼지지 않는 불꽃처럼"</i></sub>
