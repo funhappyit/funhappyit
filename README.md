@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,spring,redis,hibernate&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,spring,redis,hibernate,maven&theme=dark)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mariadb,mysql,oracle,docker,aws,githubactions&theme=dark)](https://skillicons.dev)
 
@@ -38,7 +38,7 @@
 
 | 분류 | 기술 |
 |:----:|------|
-| **Language** | Java 21 · Kotlin 2.x · JavaScript |
+| **Language** | Java 21 · JavaScript |
 | **Backend** | Spring Boot 3.x · Spring Security · JPA/Hibernate · Flyway |
 | **Cache / 동시성** | Redis (ZSET · Rate Limiting) · Redisson 분산락 |
 | **Database** | MariaDB · MySQL · Oracle · MSSQL |
@@ -62,8 +62,8 @@
 ### 🧩 [puzzle-leaderboard](https://github.com/funhappyit/puzzle-leaderboard)
 > 실시간 퍼즐 게임 랭킹 API 서버 — 동시성 제어 · Redis 캐싱 · 클라우드 배포 역량 증명
 
-- ✅ **1주차** — Kotlin + Spring Boot 3.4 API 구현, MariaDB Flyway 마이그레이션, Docker Compose 환경 구성, React 랭킹 대시보드
-- 🔄 **2주차** — Redis ZSET 랭킹(O(log N)), Redisson 분산락, Redis Rate Limiting
+- ✅ **1주차** — Java + Spring Boot 3.4 API 구현, MariaDB Flyway 마이그레이션, Docker Compose 환경 구성, React 랭킹 대시보드
+- ✅ **2주차** — Redis ZSET 랭킹(O(log N)), Redisson 분산락, Redis Rate Limiting
 - ⏳ **3주차** — JMeter 1,000 동시 요청 부하 테스트, 분산락 전/후 TPS 비교
 - ⏳ **4주차** — AWS ECS Fargate + Terraform + GitHub Actions CI/CD
 
