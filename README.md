@@ -2,8 +2,6 @@
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffunhappyit&count_bg=%236366F1&title_bg=%23111827&icon=github&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://github.com/funhappyit)
-&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:amie.hyk@gmail.com)
 &nbsp;
 [![Blog](https://img.shields.io/badge/Tech_Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/winterkjoung/)
@@ -83,9 +81,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=funhappyit&theme=radical&hide_border=true&date_format=Y.n.j)](https://git.io/streak-stats)
 
-![funhappyit's GitHub stats](https://github-readme-stats.vercel.app/api?username=funhappyit&show_icons=true&theme=radical&hide_border=true)
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=funhappyit&layout=compact&theme=radical&hide_border=true)](https://github.com/funhappyit)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=funhappyit&theme=radical)
 
 </div>
 
