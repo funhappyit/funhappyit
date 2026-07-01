@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Han%20YuKjoung&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%2F%20Kotlin%20%7C%20Spring%20Boot&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Han%20YuKjoung&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%2021%20%7C%20Spring%20Boot&descAlignY=60&descSize=18" width="100%"/>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Java+%2F+Kotlin+%2B+Spring+Boot;Concurrency+%C2%B7+Redis+%C2%B7+Cloud+Native;We+are+what+we+repeatedly+do.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Java+21+%2B+Spring+Boot;Concurrency+%C2%B7+Redis+%C2%B7+Cloud+Native;We+are+what+we+repeatedly+do.)](https://git.io/typing-svg)
 
 </div>
 
