@@ -89,4 +89,34 @@
 
 ---
 
+## 🔥 My Buddy
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png" width="120"/><br/>
+      <b>파이리 / Charmander</b><br/>
+      <sub>🔥 불꽃 타입 · No.004</sub><br/>
+      <sub><i>"작지만 꺼지지 않는 불꽃처럼"</i></sub>
+    </td>
+    <td align="left" valign="top">
+      <br/>
+      <b>기술</b><br/>
+      &nbsp;🔥 불꽃 세례 — Spring Boot<br/>
+      &nbsp;⚡ 번개 발톱 — Redis<br/>
+      &nbsp;🛡️ 방어 — Redisson 분산락<br/>
+      &nbsp;💥 오버히트 — JMeter 부하 테스트<br/>
+      <br/>
+      <b>특성</b> : 맹화 (위기에서 더 강해짐)<br/>
+      <b>타입</b> : 불꽃 / Backend
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
