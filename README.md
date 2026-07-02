@@ -46,6 +46,7 @@
 
 ---
 
+<!-- CAREER_SECTION_START
 ## 💼 Career
 
 | 구분 | 기간 | 내용 | 소속 |
@@ -56,6 +57,7 @@
 | 🎓 학력 | 2015.03 ~ 2019.08 | 전자제어공학과 | 한밭대학교 |
 
 ---
+CAREER_SECTION_END -->
 
 ## 🚀 Portfolio
 
@@ -64,8 +66,9 @@
 
 - ✅ **1주차** — Java + Spring Boot 3.4 API 구현, MariaDB Flyway 마이그레이션, Docker Compose 환경 구성, React 랭킹 대시보드
 - ✅ **2주차** — Redis ZSET 랭킹(O(log N)), Redisson 분산락, Redis Rate Limiting
-- ⏳ **3주차** — JMeter 1,000 동시 요청 부하 테스트, 분산락 전/후 TPS 비교
-- ⏳ **4주차** — AWS ECS Fargate + Terraform + GitHub Actions CI/CD
+- ✅ **3주차** — JMeter 1,000 동시 요청 부하 테스트, 분산락 전/후 TPS 비교
+- ✅ **4주차** — AWS ECS Fargate + Terraform + GitHub Actions CI/CD 코드 작성
+- ⏳ **배포** — Koyeb + Aiven(MySQL) + Upstash(Redis) 무료 클라우드 실배포 진행 중
 
 | 케이스 | TPS | 평균 응답시간 | 오류율 |
 |--------|:---:|:----------:|:-----:|
