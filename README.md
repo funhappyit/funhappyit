@@ -4,7 +4,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:amie.hyk@gmail.com)
 &nbsp;
-[![Blog](https://img.shields.io/badge/Tech_Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/winterkjoung/)
+[![Blog](https://img.shields.io/badge/Tech_Blog-FF7300?style=flat-square&logo=tistory&logoColor=white)](https://hanyugyeong.tistory.com/)
 
 <br/>
 
@@ -43,6 +43,7 @@
 | **Cache / 동시성** | Redis (ZSET · Rate Limiting) · Redisson 분산락 |
 | **Database** | MariaDB · MySQL · Oracle · MSSQL |
 | **Infra** | Docker · AWS ECS · Terraform · GitHub Actions · JMeter |
+| **Frontend** | React 18 · TypeScript · Vite |
 
 ---
 
@@ -68,7 +69,7 @@ CAREER_SECTION_END -->
 - ✅ **2주차** — Redis ZSET 랭킹(O(log N)), Redisson 분산락, Redis Rate Limiting
 - ✅ **3주차** — JMeter 1,000 동시 요청 부하 테스트, 분산락 전/후 TPS 비교
 - ✅ **4주차** — AWS ECS Fargate + Terraform + GitHub Actions CI/CD 코드 작성
-- ⏳ **배포** — Koyeb + Aiven(MySQL) + Upstash(Redis) 무료 클라우드 실배포 진행 중
+- ✅ **배포** — Render(백엔드) + Vercel(프론트) + Aiven(MySQL) + Upstash(Redis) 무료 클라우드 실배포 완료
 
 | 케이스 | TPS | 평균 응답시간 | 오류율 |
 |--------|:---:|:----------:|:-----:|
