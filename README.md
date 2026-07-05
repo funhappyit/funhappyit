@@ -14,11 +14,27 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Portfolio
 
-**Java 25 + Spring Boot** 기반 백엔드와 **Vue 3 + React** 기반 프론트엔드를 함께 개발하는 웹 개발자입니다.
+### 🧩 puzzle-leaderboard
+> 실시간 퍼즐 게임 랭킹 API — 동시성 제어 · Redis 캐싱 · 클라우드 배포
 
-엔터프라이즈 ERP/MES 시스템 개발 경험을 바탕으로, 사이드 프로젝트를 통해 **동시성 제어 · Redis 캐싱 · 클라우드 네이티브 배포** 역량을 직접 증명하고 있습니다.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/funhappyit/puzzle-leaderboard)
+[![Frontend](https://img.shields.io/badge/Frontend-Live-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://puzzle-leaderboard-five.vercel.app)
+[![Backend](https://img.shields.io/badge/Backend_API-Live-00C7B7?style=flat-square&logo=render&logoColor=white)](https://puzzle-leaderboard-jg58.onrender.com/api/v1/rankings?puzzleId=wordle-ko)
+
+| 항목 | 내용 |
+|:----:|------|
+| **Backend** | Spring Boot 3.4 · Java 21 · MySQL · Redisson · Flyway |
+| **Frontend** | React 18 · TypeScript · Vite |
+| **Infra** | Render · Vercel · Aiven · Upstash · GitHub Actions |
+| **핵심** | Redisson 분산락으로 Race Condition 방지, Redis ZSET 랭킹, JMeter 부하 테스트 |
+
+| 케이스 | TPS | 응답시간 |
+|--------|:---:|:-------:|
+| 락 없음 | 740.7/sec | 31ms |
+| Redis ZINCRBY | 816.3/sec | 25ms |
+| Redisson 분산락 | 286.9/sec | 232ms |
 
 ---
 
@@ -47,39 +63,11 @@
 
 ---
 
-<!-- CAREER_SECTION_START
-## 💼 Career
+## 👨‍💻 About Me
 
-| 구분 | 기간 | 내용 | 소속 |
-|:----:|:----:|------|:----:|
-| 🏢 재직 | 2025.07 ~ 현재 | 웹 개발 | **AMIESOFT** |
-| 🏢 재직 | 2020.07 ~ 2025.07 | 보안 웹 개발 | SECULAYER |
-| 📚 교육 | 2019.10 ~ 2020.06 | SW 엔지니어링 과정 | 대덕 HRD 센터 |
-| 🎓 학력 | 2015.03 ~ 2019.08 | 전자제어공학과 | 한밭대학교 |
+**Java 25 + Spring Boot** 기반 백엔드와 **Vue 3 + React** 기반 프론트엔드를 함께 개발하는 웹 개발자입니다.
 
----
-CAREER_SECTION_END -->
-
-## 🚀 Portfolio
-
-### 🧩 [puzzle-leaderboard](https://github.com/funhappyit/puzzle-leaderboard)
-> 실시간 퍼즐 게임 랭킹 API 서버 — 동시성 제어 · Redis 캐싱 · 클라우드 배포 역량 증명
-
-**Backend**: Spring Boot 3.4 · Java 21 · MySQL · Redis (Redisson) · Flyway · Docker  
-**Frontend**: React 18 · TypeScript · Vite · Vercel  
-**Infra**: Render · Aiven(MySQL) · Upstash(Redis) · GitHub Actions
-
-- ✅ **1주차** — Spring Boot 3.4 API 구현, MySQL Flyway 마이그레이션, Docker Compose 환경 구성, React 랭킹 대시보드
-- ✅ **2주차** — Redis ZSET 랭킹(O(log N)), Redisson 분산락, Redis Rate Limiting
-- ✅ **3주차** — JMeter 1,000 동시 요청 부하 테스트, 분산락 전/후 TPS 비교
-- ✅ **4주차** — AWS ECS Fargate + Terraform + GitHub Actions CI/CD 코드 작성
-- ✅ **배포** — Render(백엔드) + Vercel(프론트) + Aiven(MySQL) + Upstash(Redis) 무료 클라우드 실배포 완료
-
-| 케이스 | TPS | 평균 응답시간 | 오류율 |
-|--------|:---:|:----------:|:-----:|
-| 락 없음 (DB only) | 740.7/sec | 31ms | 0% |
-| Redis ZINCRBY (원자연산) | 816.3/sec | 25ms | 0% |
-| Redisson 분산락 | 286.9/sec | 232ms | 0% |
+엔터프라이즈 ERP/MES 시스템 개발 경험을 바탕으로, 사이드 프로젝트를 통해 **동시성 제어 · Redis 캐싱 · 클라우드 네이티브 배포** 역량을 직접 증명하고 있습니다.
 
 ---
 
@@ -127,5 +115,18 @@ CAREER_SECTION_END -->
 </div>
 
 ---
+
+<!-- CAREER_SECTION_START
+## 💼 Career
+
+| 구분 | 기간 | 내용 | 소속 |
+|:----:|:----:|------|:----:|
+| 🏢 재직 | 2025.07 ~ 현재 | 웹 개발 | **AMIESOFT** |
+| 🏢 재직 | 2020.07 ~ 2025.07 | 보안 웹 개발 | SECULAYER |
+| 📚 교육 | 2019.10 ~ 2020.06 | SW 엔지니어링 과정 | 대덕 HRD 센터 |
+| 🎓 학력 | 2015.03 ~ 2019.08 | 전자제어공학과 | 한밭대학교 |
+
+---
+CAREER_SECTION_END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
