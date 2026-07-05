@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Han%20YuKjoung&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%2021%20%7C%20Spring%20Boot&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Han%20YuKjoung&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Java%2025%20%7C%20Spring%20Boot%20%7C%20Vue%203&descAlignY=60&descSize=18" width="100%"/>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Java+21+%2B+Spring+Boot;Concurrency+%C2%B7+Redis+%C2%B7+Cloud+Native;We+are+what+we+repeatedly+do.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%9A%80;Java+25+%2B+Spring+Boot;Vue+3+%2B+React+18;Concurrency+%C2%B7+Redis+%C2%B7+Cloud+Native;We+are+what+we+repeatedly+do.)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,9 +16,11 @@
 
 ## 👨‍💻 About Me
 
-엔터프라이즈 백엔드 개발자로 **Java 21 + Spring Boot** 기반 서버 개발을 주로 합니다.
+**Java 25 + Spring Boot** 기반 백엔드와 **Vue 3 + React** 기반 프론트엔드를 함께 개발하는 웹 개발자입니다.
 
-현재는 단순 CRUD를 넘어 **동시성 제어 · Redis 캐싱 · 클라우드 네이티브 배포** 역량을 포트폴리오로 증명하는 중입니다.
+엔터프라이즈 ERP/MES 시스템부터 실시간 랭킹 API까지, 기획부터 배포까지 전 과정을 경험하고 있습니다.
+
+현재는 **동시성 제어 · Redis 캐싱 · 클라우드 네이티브 배포** 역량을 사이드 프로젝트로 증명하는 중입니다.
 
 ---
 
@@ -26,11 +28,11 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,spring,redis,hibernate,maven&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,spring,redis,hibernate&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vue,react,vite,tailwind,pinia,sass&theme=dark)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mariadb,mysql,oracle,docker,aws,githubactions&theme=dark)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=terraform,git,github,idea,vscode,react&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -38,12 +40,12 @@
 
 | 분류 | 기술 |
 |:----:|------|
-| **Language** | Java 21 · JavaScript |
+| **Language** | Java 25 · JavaScript · TypeScript |
 | **Backend** | Spring Boot 3.x · Spring Security · JPA/Hibernate · Flyway |
+| **Frontend** | Vue 3 · React 18 · Rsbuild · Vite · Pinia · Tailwind CSS |
 | **Cache / 동시성** | Redis (ZSET · Rate Limiting) · Redisson 분산락 |
 | **Database** | MariaDB · MySQL · Oracle · MSSQL |
-| **Infra** | Docker · AWS ECS · Terraform · GitHub Actions · JMeter |
-| **Frontend** | React 18 · TypeScript · Vite |
+| **Infra** | Docker · AWS ECS · Terraform · GitHub Actions · Jenkins · JMeter |
 
 ---
 
@@ -65,7 +67,11 @@ CAREER_SECTION_END -->
 ### 🧩 [puzzle-leaderboard](https://github.com/funhappyit/puzzle-leaderboard)
 > 실시간 퍼즐 게임 랭킹 API 서버 — 동시성 제어 · Redis 캐싱 · 클라우드 배포 역량 증명
 
-- ✅ **1주차** — Java + Spring Boot 3.4 API 구현, MariaDB Flyway 마이그레이션, Docker Compose 환경 구성, React 랭킹 대시보드
+**Backend**: Spring Boot 3.4 · Java 21 · MySQL · Redis (Redisson) · Flyway · Docker  
+**Frontend**: React 18 · TypeScript · Vite · Vercel  
+**Infra**: Render · Aiven(MySQL) · Upstash(Redis) · GitHub Actions
+
+- ✅ **1주차** — Spring Boot 3.4 API 구현, MySQL Flyway 마이그레이션, Docker Compose 환경 구성, React 랭킹 대시보드
 - ✅ **2주차** — Redis ZSET 랭킹(O(log N)), Redisson 분산락, Redis Rate Limiting
 - ✅ **3주차** — JMeter 1,000 동시 요청 부하 테스트, 분산락 전/후 TPS 비교
 - ✅ **4주차** — AWS ECS Fargate + Terraform + GitHub Actions CI/CD 코드 작성
@@ -109,12 +115,13 @@ CAREER_SECTION_END -->
       <br/>
       <b>기술</b><br/>
       &nbsp;🔥 불꽃 세례 — Spring Boot<br/>
+      &nbsp;💚 리프 블레이드 — Vue 3<br/>
       &nbsp;⚡ 번개 발톱 — Redis<br/>
       &nbsp;🛡️ 방어 — Redisson 분산락<br/>
       &nbsp;💥 오버히트 — JMeter 부하 테스트<br/>
       <br/>
       <b>특성</b> : 맹화 (위기에서 더 강해짐)<br/>
-      <b>타입</b> : 불꽃 / Backend
+      <b>타입</b> : 불꽃 / Web
     </td>
   </tr>
 </table>
