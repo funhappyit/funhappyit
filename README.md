@@ -46,7 +46,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vue,react,vite,tailwind,pinia,sass&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mariadb,mysql,oracle,docker,aws,githubactions&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mariadb,mysql,oracle,docker,githubactions&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -59,7 +59,7 @@
 | **Frontend** | Vue 3 · React 18 · Rsbuild · Vite · Pinia · Tailwind CSS |
 | **Cache / 동시성** | Redis (ZSET · Rate Limiting) · Redisson 분산락 |
 | **Database** | MariaDB · MySQL · Oracle · MSSQL |
-| **Infra** | Docker · AWS ECS · Terraform · GitHub Actions · Jenkins · JMeter |
+| **Infra** | Docker · GitHub Actions · Jenkins · JMeter |
 
 ---
 
@@ -67,7 +67,7 @@
 
 **Java 25 + Spring Boot** 기반 백엔드와 **Vue 3 + React** 기반 프론트엔드를 함께 개발하는 웹 개발자입니다.
 
-엔터프라이즈 ERP/MES 시스템 개발 경험을 바탕으로, 사이드 프로젝트를 통해 **동시성 제어 · Redis 캐싱 · 클라우드 네이티브 배포** 역량을 직접 증명하고 있습니다.
+엔터프라이즈 ERP/MES 시스템 개발 경험을 바탕으로, 사이드 프로젝트에서 **동시성 제어 · Redis 캐싱 · 클라우드 네이티브 배포**를 다루고 있습니다.
 
 ---
 
