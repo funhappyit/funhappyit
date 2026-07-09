@@ -97,7 +97,6 @@
       <img src="https://avatars.githubusercontent.com/u/220837603?v=4" width="120"/><br/>
       <b>헬로키티 / Hello Kitty</b><br/>
       <sub>🎀 Sanrio · Since 1974</sub><br/>
-      <sub><i>"작은 리본, 큰 마음으로"</i></sub>
     </td>
     <td align="left" valign="top">
       <br/>
@@ -108,7 +107,6 @@
       &nbsp;🛡️ 동시성 제어 — Redisson 분산락<br/>
       &nbsp;💥 부하 테스트 — JMeter<br/>
       <br/>
-      <b>특성</b> : 다정함 (누구에게나 친절함)<br/>
       <b>타입</b> : 리본 / Web
     </td>
   </tr>
