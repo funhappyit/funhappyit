@@ -7,6 +7,7 @@
 &nbsp;
 [![Blog](https://img.shields.io/badge/Tech_Blog-FF7300?style=flat-square&logo=tistory&logoColor=white)](https://hanyugyeong.tistory.com/)
 
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%9A%80;Java+25+%2B+Spring+Boot;Vue+3+%2B+React+18;Concurrency+%C2%B7+Redis+%C2%B7+Cloud+Native;We+are+what+we+repeatedly+do.)](https://git.io/typing-svg)
