@@ -21,7 +21,7 @@
 ### 🧩 puzzle-leaderboard
 > 실시간 퍼즐 게임 랭킹 API — 동시성 제어 · Redis 캐싱 · 클라우드 배포
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/funhappyit/puzzle-leaderboard)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amiesoft-hyk/puzzle-leaderboard)
 [![Frontend](https://img.shields.io/badge/Frontend-Live-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://puzzle-leaderboard-five.vercel.app)
 [![Backend](https://img.shields.io/badge/Backend_API-Live-00C7B7?style=flat-square&logo=render&logoColor=white)](https://puzzle-leaderboard-jg58.onrender.com/api/v1/rankings?puzzleId=wordle-ko)
 
@@ -77,39 +77,39 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=funhappyit&theme=radical&hide_border=true&date_format=Y.n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=amiesoft-hyk&theme=radical&hide_border=true&date_format=Y.n.j)](https://git.io/streak-stats)
 
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=funhappyit&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amiesoft-hyk&theme=radical)
 
 </div>
 
 ---
 
-## 🔥 My Buddy
+## 🎀 My Buddy
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="160">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" width="120"/><br/>
-      <b>파이리 / Charmander</b><br/>
-      <sub>🔥 불꽃 타입 · No.004</sub><br/>
-      <sub><i>"작지만 꺼지지 않는 불꽃처럼"</i></sub>
+      <img src="https://avatars.githubusercontent.com/u/220837603?v=4" width="120"/><br/>
+      <b>헬로키티 / Hello Kitty</b><br/>
+      <sub>🎀 Sanrio · Since 1974</sub><br/>
+      <sub><i>"작은 리본, 큰 마음으로"</i></sub>
     </td>
     <td align="left" valign="top">
       <br/>
       <b>기술</b><br/>
-      &nbsp;🔥 불꽃 세례 — Spring Boot<br/>
-      &nbsp;💚 리프 블레이드 — Vue 3<br/>
-      &nbsp;⚡ 번개 발톱 — Redis<br/>
-      &nbsp;🛡️ 방어 — Redisson 분산락<br/>
-      &nbsp;💥 오버히트 — JMeter 부하 테스트<br/>
+      &nbsp;🎀 백엔드 — Spring Boot<br/>
+      &nbsp;💚 프론트엔드 — Vue 3<br/>
+      &nbsp;⚡ 캐싱 — Redis<br/>
+      &nbsp;🛡️ 동시성 제어 — Redisson 분산락<br/>
+      &nbsp;💥 부하 테스트 — JMeter<br/>
       <br/>
-      <b>특성</b> : 맹화 (위기에서 더 강해짐)<br/>
-      <b>타입</b> : 불꽃 / Web
+      <b>특성</b> : 다정함 (누구에게나 친절함)<br/>
+      <b>타입</b> : 리본 / Web
     </td>
   </tr>
 </table>
