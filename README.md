@@ -5,7 +5,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:amie.hyk@gmail.com)
 &nbsp;
-[![Blog](https://img.shields.io/badge/Tech_Blog-FF7300?style=flat-square&logo=tistory&logoColor=white)](https://hanyugyeong.tistory.com/)
+[![Blog](https://img.shields.io/badge/Tech_Blog-222222?style=flat-square&logo=githubpages&logoColor=white)](https://amiesoft-hyk.github.io/)
 
 
 <br/>
