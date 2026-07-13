@@ -18,6 +18,22 @@
 
 ## 🚀 Portfolio
 
+### 💬 chat-notify
+> 실시간 채팅 + SSE 알림 서버 — WebSocket · Redis Pub/Sub 분산 브로드캐스팅 · JWT 인증
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amiesoft-hyk/chat-notify)
+[![Frontend](https://img.shields.io/badge/Frontend-Live-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://chat-notify.vercel.app)
+[![Backend](https://img.shields.io/badge/Backend_API-Live-00C7B7?style=flat-square&logo=render&logoColor=white)](https://chat-notify.onrender.com)
+
+| 항목 | 내용 |
+|:----:|------|
+| **Backend** | Spring Boot 3.x · Java 21 · Spring WebSocket/STOMP · SSE · JWT |
+| **Frontend** | React 18 · TypeScript · Vite |
+| **Infra** | Render · Vercel · Aiven (MySQL) · Upstash (Redis) |
+| **핵심** | Redis Pub/Sub으로 다중 서버 간 WebSocket 메시지 브로드캐스팅, SSE 안읽음 알림, Access/Refresh JWT 이중 토큰 인증 |
+
+---
+
 ### 🧩 puzzle-leaderboard
 > 실시간 퍼즐 게임 랭킹 API — 동시성 제어 · Redis 캐싱 · 클라우드 배포
 
