@@ -5,7 +5,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:amie.hyk@gmail.com)
 &nbsp;
-[![Blog](https://img.shields.io/badge/Tech_Blog-222222?style=flat-square&logo=githubpages&logoColor=white)](https://amiesoft-hyk.github.io/)
+[![Blog](https://img.shields.io/badge/Tech_Blog-222222?style=flat-square&logo=githubpages&logoColor=white)](https://funhappyit.github.io/)
 
 
 <br/>
@@ -21,7 +21,7 @@
 ### 💬 chat-notify
 > 실시간 채팅 + SSE 알림 서버 — WebSocket · Redis Pub/Sub 분산 브로드캐스팅 · JWT 인증
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amiesoft-hyk/chat-notify)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/funhappyit/chat-notify)
 [![Frontend](https://img.shields.io/badge/Frontend-Live-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://chat-notify.vercel.app)
 [![Backend](https://img.shields.io/badge/Backend_API-Live-00C7B7?style=flat-square&logo=render&logoColor=white)](https://chat-notify.onrender.com)
 
@@ -37,7 +37,7 @@
 ### 🧩 puzzle-leaderboard
 > 실시간 퍼즐 게임 랭킹 API — 동시성 제어 · Redis 캐싱 · 클라우드 배포
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amiesoft-hyk/puzzle-leaderboard)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/funhappyit/puzzle-leaderboard)
 [![Frontend](https://img.shields.io/badge/Frontend-Live-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://puzzle-leaderboard-five.vercel.app)
 [![Backend](https://img.shields.io/badge/Backend_API-Live-00C7B7?style=flat-square&logo=render&logoColor=white)](https://puzzle-leaderboard-jg58.onrender.com/api/v1/rankings?puzzleId=wordle-ko)
 
@@ -93,11 +93,11 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=amiesoft-hyk&theme=radical&hide_border=true&date_format=Y.n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=funhappyit&theme=radical&hide_border=true&date_format=Y.n.j)](https://git.io/streak-stats)
 
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amiesoft-hyk&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=funhappyit&theme=radical)
 
 </div>
 
